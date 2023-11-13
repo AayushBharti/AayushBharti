@@ -16,10 +16,15 @@ Here are some ideas to get you started:
 
 <!--  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px"> -->
 
-<h1 align="center">Hey there 🙋‍♂️, I'm Aayush Bharti</h1>
-<h3 align="center">I'm a Full-Stack Web Developer from India !</h3>
+<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Tourney&weight=900&size=30&duration=4000&pause=1000&color=F71B55&center=true&vCenter=true&repeat=false&random=true&width=600&lines=Hello+%3Ccoder!%2F%3E%2C+I'm+Aayush+Bharti" alt="Hey there 🙋‍♂️, I'm Aayush Bharti" /></a></h1>
+
+
+<!--<h1 align="center">Hey there 🙋‍♂️, I'm Aayush Bharti</h1>
+<h3 align="center">I'm a Full-Stack Web Developer from India !</h3>-->
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=AayushBharti&label=Profile%20views&color=0e75b6&style=flat" alt="AayushBharti"/> </p>
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='250'>
 
