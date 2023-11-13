@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **AayushBharti/AayushBharti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -25,7 +24,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 👨‍💻 All of my projects are available at [[http://karunkarthik-portfolio.netlify.com/](http://AayushBharti.bio.link/)]
+- 👨‍💻 All of my links are available at [[http://AayushBharti.bio.link/](http://AayushBharti.bio.link/)]
 
 - 👯 I’m looking to collaborate on **competitive programming.**
 
@@ -35,7 +34,7 @@ Here are some ideas to get you started:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/iAayushBharti" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="iAayushBharti" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/iAayushBharti" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@9.20.0/icons/linkedin.svg" alt="iAayushBharti" height="30" width="40" /></a>
 
 
 <h3 align="left">Languages and Tools:</h3>
