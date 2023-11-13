@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/iAayushBharti" target="blank"><img align="center" src="https://th.bing.com/th/id/R.ee72349bf2de934436a15beb33c10500?rik=AqsZ6MLH4qCf3w&riu=http%3a%2f%2fwww.erunga.net%2fwp-content%2fuploads%2flinkedin-logo.jpg&ehk=aiN%2fiQGhj4ggX9yp36x66x9JtmHNTYZss1SARNOPZGY%3d&risl=&pid=ImgRaw&r=0" alt="iAayushBharti" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/iAayushBharti" target="blank"><img align="center" src="https://th.bing.com/th/id/R.ee72349bf2de934436a15beb33c10500?rik=AqsZ6MLH4qCf3w&riu=http%3a%2f%2fwww.erunga.net%2fwp-content%2fuploads%2flinkedin-logo.jpg&ehk=aiN%2fiQGhj4ggX9yp36x66x9JtmHNTYZss1SARNOPZGY%3d&risl=&pid=ImgRaw&r=0" alt="iAayushBharti" height="40" width="40" /></a>
 
 
 <h3 align="left">Languages and Tools:</h3>
