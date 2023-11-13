@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/iAayushBharti" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@9.20.0/icons/linkedin.svg" alt="iAayushBharti" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/iAayushBharti" target="blank"><img align="center" src="[https://cdn.jsdelivr.net/npm/simple-icons@9.20.0/icons/linkedin.svg](https://icons8.com/icon/MR3dZdlA53te/linkedin)" alt="iAayushBharti" height="30" width="40" /></a>
 
 
 <h3 align="left">Languages and Tools:</h3>
