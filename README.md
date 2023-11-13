@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=AayushBharti&label=Profile%20views&color=0e75b6&style=flat" alt="AayushBharti"/> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AayushBharti" alt="AayushBharti" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AayushBharti" alt="AayushBharti" /></a> </p> -->
 
 - 🌱 I’m currently learning **MERN Stack**
 
@@ -28,13 +28,13 @@ Here are some ideas to get you started:
 
 - 👯 I’m looking to collaborate on **competitive programming.**
 
-- 💬 Ask me about **Mern stack, programming.**
+- 💬 Ask me about **Mern stack, Programming.**
 
 - 📫 How to reach me **iAayushBharti@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/iAayushBharti" target="blank"><img align="center" src="https://th.bing.com/th/id/R.ee72349bf2de934436a15beb33c10500?rik=AqsZ6MLH4qCf3w&riu=http%3a%2f%2fwww.erunga.net%2fwp-content%2fuploads%2flinkedin-logo.jpg&ehk=aiN%2fiQGhj4ggX9yp36x66x9JtmHNTYZss1SARNOPZGY%3d&risl=&pid=ImgRaw&r=0" alt="iAayushBharti" height="40" width="40" /></a>
+<a href="https://linkedin.com/in/iAayushBharti" target="blank"><img align="center" src="https://cdn.freebiesupply.com/logos/large/2x/linkedin-icon-logo-svg-vector.svg" alt="iAayushBharti" height="40" width="40" /></a>
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -56,4 +56,4 @@ Here are some ideas to get you started:
 
 
 
-<a href="https://app.daily.dev/aayushbharti"><img src="https://api.daily.dev/devcards/cf5f5602012c452cb9f62160dc185527.png?r=9qu" width="300" alt="Aayush Bharti's Dev Card"/></a>
+<!-- <a href="https://app.daily.dev/aayushbharti"><img src="https://api.daily.dev/devcards/cf5f5602012c452cb9f62160dc185527.png?r=9qu" width="300" alt="Aayush Bharti's Dev Card"/></a> -->
