@@ -24,11 +24,14 @@ Here are some ideas to get you started:
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=AayushBharti&label=Profile%20views&color=0e75b6&style=flat" alt="AayushBharti"/> </p>
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+<!-- <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%"> -->
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='250'>
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AayushBharti" alt="AayushBharti" /></a> </p> -->
+
 
 - 🌱 I’m currently learning **MERN Stack**
 
@@ -45,13 +48,16 @@ Here are some ideas to get you started:
 <a href="https://linkedin.com/in/iAayushBharti" target="blank"><img align="center" src="https://cdn.freebiesupply.com/logos/large/2x/linkedin-icon-logo-svg-vector.svg" alt="iAayushBharti" height="40" width="40" /></a>
 -->
 
-<h3>Where to find me</h3>
+
+<b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
+<br><hr>
 <p><a href="https://github.com/AayushBharti" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/iAayushBharti" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/iAayushBharti" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a  /></a> 
 </p>
 
 
-
-<h3 align="left">Languages and Tools:</h3>
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Languages and Tools:</b>
+<hr>
+<!-- <h3 align="left">Languages and Tools:</h3> -->
 
 <!--  <h3>Things I code with</h3>  -->
 <p>
@@ -90,8 +96,21 @@ Here are some ideas to get you started:
 
 <p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AayushBharti&" alt="AayushBharti" /></p>            -->
 
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+<br>
 
-<img align='right' src = "https://github-readme-stats.vercel.app/api/top-langs/?username=AayushBharti&layout=compact">
+<div align="center">
+
+<a href="https://github.com/0xabdulkhalid/">
+  
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=Aayushbharti&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/> -->
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Aayushbharti&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="0xabdulkhalid"/>
+<!--   <img align='right' src = "https://github-readme-stats.vercel.app/api/top-langs/?username=AayushBharti&layout=compact">   -->
+  
+</a>
+</div>
+
 
 
 
