@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 <!--  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px"> -->
 
-<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Tourney&weight=900&size=30&duration=4000&pause=1000&color=F71B55&center=true&vCenter=true&repeat=false&random=true&width=600&lines=Hello+%3Ccoder!%2F%3E%2C+I'm+Aayush+Bharti" alt="Hey there 🙋‍♂️, I'm Aayush Bharti" /></a></h1>
+<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Tourney&weight=900&size=30&duration=4000&pause=1000&color=F71B55&center=true&vCenter=true&repeat=false&random=true&width=600&lines=Hello+%3Ccoders!%2F%3E%2C+I'm+Aayush+Bharti" alt="Hey there 🙋‍♂️, I'm Aayush Bharti" /></a></h1>
 
 
 <!--<h1 align="center">Hey there 🙋‍♂️, I'm Aayush Bharti</h1>
