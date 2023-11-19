@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 <!--  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px"> -->
 
-<h1 align="center"><a href="https://github.com/AayushBharti"><img src="https://readme-typing-svg.herokuapp.com?font=Tourney&weight=900&size=30&duration=4000&pause=5000&color=F71B55&center=true&vCenter=true&repeat=true&random=false&width=600&lines=Hello+%3Ccoders!%2F%3E%2C+I'm+Aayush+Bharti" alt="Hey there 🙋‍♂️, I'm Aayush Bharti" /></a></h1>
+<h1 align="center"><a href="https://aayushbharti.vercel.app/"><img src="https://readme-typing-svg.herokuapp.com?font=Tourney&weight=900&size=30&duration=4000&pause=5000&color=F71B55&center=true&vCenter=true&repeat=true&random=false&width=600&lines=Hello+%3Ccoders!%2F%3E%2C+I'm+Aayush+Bharti" alt="Hey there 🙋‍♂️, I'm Aayush Bharti" /></a></h1>
 
 
 
@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 [![Last Commit](https://custom-icon-badges.demolab.com/github/last-commit/AayushBharti/AayushBharti?style=plastic&logo=history)](https://github.com/AayushBharti/AayushBharti/commits/master)
 [![Awesome Contributors](https://custom-icon-badges.demolab.com/github/contributors/AayushBharti/AayushBharti?label=Awesome%20Contributors&style=plastic&logo=heart-fill)](https://github.com/AayushBharti/AayushBharti/graphs/contributors)
 
-[![Today's Profile Visitors](https://hits.sh/github.com/AkashSingh3031/AayushBharti.svg?view=today-total&label=Today's%20Profile%20View&extraCount=0&labelColor=fe3757&logo=github)](https://github.com/AayushBharti)
+[![Today's Profile Visitors](https://hits.sh/github.com/AayushBharti/AayushBharti.svg?view=today-total&label=Today's%20Profile%20View&extraCount=0&labelColor=fe3757&logo=github)](https://github.com/AayushBharti)
 [![Profile Visitors](https://hits.sh/github.com/AayushBharti/AayushBharti.svg?label=Total%20Profile%20View&extraCount=0&color=fe3757&labelColor=bf11cc&logo=github)](https://github.com/AayushBharti)
 [![GitHub followers](https://custom-icon-badges.demolab.com/github/followers/AayushBharti?style=social&logo=followers)](https://github.com/AayushBharti?tab=followers)
 <!--[![LeetCode](https://img.shields.io/badge/dynamic/json?style=flat&labelColor=orange&logo=leetcode&logoColor=black&label=Solved&query=solvedOverTotal&url=https://leetcode-badge.vercel.app/api/users/akashsingh3031)](https://leetcode.com/akashsingh3031)-->
@@ -43,12 +43,14 @@ Here are some ideas to get you started:
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='250'>
+<a href="https://aayushbharti.vercel.app/"><img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='250'></a>
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AayushBharti" alt="AayushBharti" /></a> </p> -->
 
 
 - 🌱 I’m currently learning **MERN Stack**
+
+- 🧔‍♂️ My Protfolio Website [[https://aayushbharti.vercel.app/](https://aayushbharti.vercel.app/)]
 
 - 👨‍💻 All of my links are available at [[http://AayushBharti.bio.link/](http://AayushBharti.bio.link/)]
 
@@ -68,10 +70,10 @@ Here are some ideas to get you started:
 <br/><br/>
 
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b>   Things I code with</b>
-<hr>
+<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b>   Things I code with</b>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-<br/>
+
 <!-- <h3 align="left">Languages and Tools:</h3> -->
 <div align="center" style="margin-bottom: 2px">
 <img align="center" alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white" />
@@ -156,7 +158,7 @@ Here are some ideas to get you started:
 <br/><br/>
 
 <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
-<br><hr>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 <p><a href="https://www.linkedin.com/in/iAayushBharti" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/AayushBharti" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
   <a href="https://twitter.com/iAayushBharti" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> 
@@ -174,7 +176,7 @@ Here are some ideas to get you started:
 
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
-<br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 <div align="center">
 
