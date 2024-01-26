@@ -52,7 +52,7 @@ Here are some ideas to get you started:
 
 - 🧔‍♂️ My Protfolio Website [[https://aayushbharti.vercel.app/](https://aayushbharti.vercel.app/)]
 
-- 👨‍💻 All of my links are available at [[http://AayushBharti.bio.link/](http://AayushBharti.bio.link/)]
+- 👨‍💻 All of my links are available at [[http://aayush-links.vercel.app/](http://aayush-links.vercel.app/)]
 
 - 👯 I’m looking to collaborate on **competitive programming.**
 
