@@ -1,4 +1,3 @@
-
  <!-- <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px"> -->
 
 <h1 align="center"><a href="https://aayushbharti.vercel.app/" target="_blank"><img src="https://readme-typing-svg.herokuapp.com?font=Tourney&weight=900&size=30&duration=4000&pause=5000&color=1e90ff&center=true&vCenter=true&repeat=true&random=false&width=600&lines=Hello+%3Ccoders!%2F%3E%2C+I'm+Aayush+Bharti" alt="Hey there 🙋‍♂️, I'm Aayush Bharti" /></a></h1>
@@ -6,10 +5,8 @@
 <!--<h1 align="center">Hey there 🙋‍♂️, I'm Aayush Bharti</h1>
 <h3 align="center">I'm a Full-Stack Web Developer from India !</h3>
 
-<p align="left"><img src="https://komarev.com/ghpvc/?username=AayushBharti&label=Profile%20views&color=0e75b6&style=flat" alt="AayushBharti"/> </p> 
+<p align="left"><img src="https://komarev.com/ghpvc/?username=AayushBharti&label=Profile%20views&color=0e75b6&style=flat" alt="AayushBharti"/> </p>
  -->
-
-
 
 <!-- [![Hello programmer Welcome to my profile](https://custom-icon-badges.demolab.com/badge/Hello,Programmer!-Welcome-orange.svg?style=flat&logo=github)](https://github.com/AayushBharti)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/AayushBharti)
@@ -24,12 +21,16 @@
 
 [![Visits Badge](https://komarev.com/ghpvc/?username=aayushbharti&label=Profile%20views&color=red&style=for-the-badge)](https://honghong.me)
 [![](https://wakatime.com/badge/user/8747fe60-b1f6-4787-b726-bfea4896868a.svg?style=for-the-badge)](https://wakatime.com/@aayushbharti)
+<span>
+<a href="https://twitter.com/iAayushBharti" target="_blank"><img alt="Twitter" align="right" width="25" src="https://aayushbharti.pages.dev/twit.svg" /></a>
+&#8287;&#8287;
+<a href="https://www.linkedin.com/in/iAayushBharti" target="_blank"><img alt="LinkedIn" align="right" width="25" src="https://aayushbharti.pages.dev/link.svg" /></a>
+&#8287;&#8287;
+<a href="https://github.com/AayushBharti" target="_blank"><img alt="Github" align="right" width="25" src="https://aayushbharti.pages.dev/git.svg" /></a>
+</span>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 <a href="https://aayushbharti.vercel.app/" target="_blank"><img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='250'></a>
-
-<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AayushBharti" alt="AayushBharti" /></a> </p> -->
-
 
 - 🌱 I'm currently learning **Next.js**
 
@@ -41,35 +42,31 @@
 
 - 📫 How to reach me **iAayushBharti@gmail.com**
 
-
 <!--
 - 👨‍💻 All of my projects are available at [https://honghong.me/projects](https://honghong.me/projects)
 - 👯 I’m looking to collaborate on **competitive programming.**
 - 📝 I regularly write articles on [honghong.me/blog](https://honghong.me/blog)
 -->
 
-
 <!--  <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/iAayushBharti" target="blank"><img align="center" src="https://cdn.freebiesupply.com/logos/large/2x/linkedin-icon-logo-svg-vector.svg" alt="iAayushBharti" height="40" width="40" /></a>
 -->
 
-
-
 <br/>
 
-
-<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b>  Things I code with</b>
+<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25" height="25">&ensp; <b> Things I code with</b>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
 <p align="left">
 <!-- <img src="https://skillicons.dev/icons?i=html,css,js,ts,nextjs,react,tailwind,figma,notion,npm,git,github,nodejs,express,prisma,postgres,supabase,mongodb,postman,vscode,webstorm,vercel,vite,powershell,bash,linux,mysql,md,firebase,cloudflare,java,c,py"/> -->
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,nextjs,react,tailwind,figma,notion,npm,git,github,nodejs,express,prisma,postgres,supabase,mongodb,postman,vscode,webstorm,vercel,vite,powershell,bash,linux,mysql,md,firebase,cloudflare,java,c,py)](https://aayushbharti.vercel.app)
+
 </p>
-
-
   <!-- jest -->
+📊<b> Weekly development breakdown</b>
+<!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
 
 ```txt
 Total Time: 41 hrs 2 mins
@@ -81,9 +78,7 @@ Other        28 mins         ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 CSS          21 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.85 %
 ```
 
-
-
-<!-- 
+<!--
 ## 🚀 Languages and Tools
 
 ### 👉 Front-end
@@ -158,9 +153,9 @@ CSS          21 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 <img alt="GitLab" src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white"/>
 <img alt="Bitbucket" src="https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white"/>
 </p>
-<!-- 
+<!--
 ### 👉 Others
-<!-- 
+<!--
 <p>
 <img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
 <img alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
@@ -170,8 +165,6 @@ CSS          21 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 </p>
 -->
 
-
-  
 <!--  <h3>Things I code with</h3>  -->
 <!-- <p>
 
@@ -207,30 +200,10 @@ CSS          21 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AayushBharti&" alt="AayushBharti" /></p>            -->
 
-
-
-
-
-
-
 <br/>
 
-<b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<p><a href="https://www.linkedin.com/in/iAayushBharti" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/AayushBharti" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
-  <a href="https://twitter.com/iAayushBharti" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> 
-  <a /></a> 
-</p>
-
-
-
-
-
-
-
-
-
+<!-- <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -241,16 +214,11 @@ CSS          21 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
   
 <!--   <img src="https://github-readme-stats.vercel.app/api?username=Aayushbharti&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/> -->
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Aayushbharti&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="AayushBharti"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Aayushbharti&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=000000" width="375"  alt="AayushBharti"/>
 <!--   <img align='right' src = "https://github-readme-stats.vercel.app/api/top-langs/?username=AayushBharti&layout=compact">   -->
   
 </a>
 </div>
-
-
-
-
-
 
 <!-- <a href="https://app.daily.dev/aayushbharti"><img src="https://api.daily.dev/devcards/cf5f5602012c452cb9f62160dc185527.png?r=9qu" width="300" alt="Aayush Bharti's Dev Card"/></a> -->
 
