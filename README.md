@@ -31,6 +31,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <a href="https://aayushbharti.vercel.app/" target="_blank"><img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='250'></a>
+<br/><br/>
 
 - 🌱 I'm currently learning **Next.js**
 
@@ -38,7 +39,7 @@
 
 - 👨‍💻 All of my links are available at [[http://aayush-links.vercel.app/](http://aayush-links.vercel.app/)]
 
-- 💬 Ask me about **react, next.js, node.js**
+- 💬 Ask me about **Node.js, React, Next.js... or anything [here](https://github.com/aayushbharti/aayushbharti/issues)**
 
 - 📫 How to reach me **iAayushBharti@gmail.com**
 
@@ -208,17 +209,14 @@ CSS          21 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<div align="left">
-
-<a href="https://github.com/AayushBharti/">
-  
-<!--   <img src="https://github-readme-stats.vercel.app/api?username=Aayushbharti&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/> -->
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Aayushbharti&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=000000" width="375"  alt="AayushBharti"/>
-<!--   <img align='right' src = "https://github-readme-stats.vercel.app/api/top-langs/?username=AayushBharti&layout=compact">   -->
-  
-</a>
+<div align=center>
+  <img width=320 src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=aayushbharti&langs_count=8&layout=compact&theme=dark&border_radius=10&exclude_repo=github-readme-stats&hide_border=true" alt="top langs" />
+  <img width=420  src="https://github-readme-stats-salesp07.vercel.app/api?username=aayushbharti&count_private=true&show_icons=true&theme=dark&rank_icon=github&hide_border=true&border_radius=10" alt="readme stats" />
+  <br/>
+  <img width=420 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=aayushbharti&count_private=true&theme=dark&hide_border=true&border_radius=10&card_width=495" alt="streak stats"/>
 </div>
+
+<br/>
 
 <!-- <a href="https://app.daily.dev/aayushbharti"><img src="https://api.daily.dev/devcards/cf5f5602012c452cb9f62160dc185527.png?r=9qu" width="300" alt="Aayush Bharti's Dev Card"/></a> -->
 
