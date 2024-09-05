@@ -2,6 +2,20 @@
 
 <h1 align="center"><a href="https://aayushbharti.vercel.app/" target="_blank"><img src="https://readme-typing-svg.herokuapp.com?font=Tourney&weight=900&size=30&duration=4000&pause=5000&color=1e90ff&center=true&vCenter=true&repeat=true&random=false&width=600&lines=Hello+%3Ccoders!%2F%3E%2C+I'm+Aayush+Bharti" alt="Hey there 🙋‍♂️, I'm Aayush Bharti" /></a></h1>
 
+<!-- <a href="https://aayushbharti.vercel.app/">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/header.svg" />
+    <img
+      alt="Developer | Problem Solver | Freelance"
+      src="./header.svg"
+      width="100%"
+    />
+  </picture>
+</a>
+<br/>
+<br/> -->
+
 <!--<h1 align="center">Hey there 🙋‍♂️, I'm Aayush Bharti</h1>
 <h3 align="center">I'm a Full-Stack Web Developer from India !</h3>
 
@@ -18,9 +32,8 @@
 [![Profile Visitors](https://hits.sh/github.com/AayushBharti/AayushBharti.svg?label=Total%20Profile%20View&extraCount=0&color=fe3757&labelColor=bf11cc&logo=github)](https://github.com/AayushBharti)
 [![GitHub followers](https://custom-icon-badges.demolab.com/github/followers/AayushBharti?style=social&logo=followers)](https://github.com/AayushBharti?tab=followers)
 [![LeetCode](https://img.shields.io/badge/dynamic/json?style=flat&labelColor=orange&logo=leetcode&logoColor=black&label=Solved&query=solvedOverTotal&url=https://leetcode-badge.vercel.app/api/users/aayushbharti)](https://leetcode.com/aayushbharti) -->
-
-[![Visits Badge](https://komarev.com/ghpvc/?username=aayushbharti&label=Profile%20views&color=red&style=for-the-badge)](https://honghong.me)
-[![](https://wakatime.com/badge/user/8747fe60-b1f6-4787-b726-bfea4896868a.svg?style=for-the-badge)](https://wakatime.com/@aayushbharti)
+<!-- [![](https://wakatime.com/badge/user/8747fe60-b1f6-4787-b726-bfea4896868a.svg?style=for-the-badge)](https://wakatime.com/@iaayushbharti) -->
+[![Visits Badge](https://komarev.com/ghpvc/?username=aayushbharti&label=Profile%20views&color=red&style=for-the-badge)](https://aayushbharti.vercel.app)
 <span>
 <a href="https://twitter.com/iAayushBharti" target="_blank"><img alt="Twitter" align="right" width="25" src="https://aayushbharti.pages.dev/twit.svg" /></a>
 &#8287;&#8287;
@@ -28,10 +41,9 @@
 &#8287;&#8287;
 <a href="https://github.com/AayushBharti" target="_blank"><img alt="Github" align="right" width="25" src="https://aayushbharti.pages.dev/git.svg" /></a>
 </span>
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <a href="https://aayushbharti.vercel.app/" target="_blank"><img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='250'></a>
-<br/><br/>
+<br/>
 
 - 🌱 I'm currently learning **Next.js**
 
