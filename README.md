@@ -1,13 +1,17 @@
  <!-- <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px"> -->
 
 <!-- <h1 align="center"><a href="https://aayushbharti.vercel.app/" target="_blank"><img src="https://readme-typing-svg.herokuapp.com?font=Tourney&weight=900&size=30&duration=4000&pause=5000&color=1e90ff&center=true&vCenter=true&repeat=true&random=false&width=600&lines=Hello+%3Ccoders!%2F%3E%2C+I'm+Aayush+Bharti" alt="Hey there 🙋‍♂️, I'm Aayush Bharti" /></a></h1> -->
-<!-- <a href="https://aayushbharti.vercel.app/">
+<p align="center">
+  <a href="https://aayushbharti.vercel.app/">
     <img
-      alt="Developer | Problem Solver | Freelance"
-      src="./assets/banner.png"
-      width="100%"
+      alt="Aayush Bharti"
+      src="./assets/headerText.png"
+      width="95%"
     />
-</a> -->
+  </a>
+</p>
+
+
 <!-- <div align="center" style="margin: 22px 0; display: flex; justify-content: center; align-items: center;">
   <span style="font-size: 1.4rem; font-weight: bold; display: inline-block; vertical-align: middle;">
     Hi, I'm Aayush Bharti,
@@ -25,22 +29,10 @@
   <span style="font-size: 1.4rem; font-weight: bold; display: inline-block; vertical-align: middle;">
     a Full Stack Developer based in India.
   </span>
-</div> -->
+</div> 
+-->
 <br/>
-<div align="center" style="margin: 22px 0;">
-  <span style="font-size: 1.4rem; font-weight: bold; vertical-align: top;">
-    Hi, I'm Aayush Bharti,
-  </span>
-    <img 
-      src="https://iaayushbharti.vercel.app/2.jpg" 
-      alt="Aayush Bharti" 
-      width="80" 
-      style="border-radius: 24px; margin: 0 15px;"
-    />
-  <span style="font-size: 1.4rem; font-weight: bold; vertical-align: top;">
-    a Full Stack Developer based in India.
-  </span>
-</div>
+
 
 <!-- [![Hello programmer Welcome to my profile](https://custom-icon-badges.demolab.com/badge/Hello,Programmer!-Welcome-orange.svg?style=flat&logo=github)](https://github.com/AayushBharti)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/AayushBharti)
