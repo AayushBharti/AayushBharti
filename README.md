@@ -8,16 +8,16 @@
       width="100%"
     />
 </a> -->
-<div align="center" style="margin: 22px 0; display: flex; justify-content: center; align-items: center;">
+<!-- <div align="center" style="margin: 22px 0; display: flex; justify-content: center; align-items: center;">
   <span style="font-size: 1.4rem; font-weight: bold; display: inline-block; vertical-align: middle;">
     Hi, I'm Aayush Bharti,
   </span>
 
   <span style="display: inline-block; vertical-align: middle;">
-    <img 
-      src="https://iaayushbharti.vercel.app/2.jpg" 
-      alt="Aayush Bharti" 
-      width="80" 
+    <img
+      src="https://iaayushbharti.vercel.app/2.jpg"
+      alt="Aayush Bharti"
+      width="80"
       style="border-radius: 24px; cursor: pointer; margin: 0 15px;"
     />
   </span>
@@ -25,8 +25,22 @@
   <span style="font-size: 1.4rem; font-weight: bold; display: inline-block; vertical-align: middle;">
     a Full Stack Developer based in India.
   </span>
-</div>
+</div> -->
 <br/>
+<div align="center" style="margin: 22px 0;">
+  <span style="font-size: 1.4rem; font-weight: bold; vertical-align: top;">
+    Hi, I'm Aayush Bharti,
+  </span>
+    <img 
+      src="https://iaayushbharti.vercel.app/2.jpg" 
+      alt="Aayush Bharti" 
+      width="80" 
+      style="border-radius: 24px; margin: 0 15px;"
+    />
+  <span style="font-size: 1.4rem; font-weight: bold; vertical-align: top;">
+    a Full Stack Developer based in India.
+  </span>
+</div>
 
 <!-- [![Hello programmer Welcome to my profile](https://custom-icon-badges.demolab.com/badge/Hello,Programmer!-Welcome-orange.svg?style=flat&logo=github)](https://github.com/AayushBharti)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/AayushBharti)
@@ -63,7 +77,7 @@
 
 - 📫 How to reach me **iAayushBharti@gmail.com**
 
- - ✨ **Let's Connect & Collaborate!** I'm always open to new projects and opportunities.
+- ✨ **Let's Connect & Collaborate!** I'm always open to new projects and opportunities.
 
 <!-- - 👨‍💻 All of my projects are available at [https://honghong.me/projects](https://honghong.me/projects)
 - 👯 I’m looking to collaborate on **competitive programming.**
@@ -78,6 +92,7 @@
 <!-- <img src="https://skillicons.dev/icons?i=html,css,js,ts,nextjs,react,tailwind,figma,notion,npm,git,github,nodejs,express,prisma,postgres,supabase,mongodb,postman,vscode,webstorm,vercel,vite,powershell,bash,linux,mysql,md,firebase,cloudflare,java,c,py"/> -->
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,nextjs,react,tailwind,figma,notion,npm,git,github,nodejs,express,prisma,postgres,supabase,mongodb,postman,vscode,webstorm,vercel,vite,powershell,bash,linux,mysql,md,firebase,cloudflare,java,c,py)](https://aayushbharti.vercel.app)
+
   <!-- jest -->
 </p>
 📊<b> Weekly development breakdown</b>
@@ -220,6 +235,7 @@ CSS          21 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 <div align=center>
   <img width=320 src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=aayushbharti&langs_count=8&layout=compact&theme=dark&border_radius=10&exclude_repo=github-readme-stats&hide_border=true" alt="top langs" />
   <img width=420  src="https://github-readme-stats-salesp07.vercel.app/api?username=aayushbharti&count_private=true&show_icons=true&theme=dark&rank_icon=github&hide_border=true&border_radius=10" alt="readme stats" />
