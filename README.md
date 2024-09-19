@@ -47,7 +47,7 @@
 <!-- [![wakatime](https://wakatime.com/badge/user/8821fc28-7662-4c43-9766-efd845f8957f.svg?style=for-the-badge)](https://wakatime.com/@aayushbharti) -->
 
 [![Visits Badge](https://komarev.com/ghpvc/?username=aayushbharti&label=Profile%20views&color=red&style=for-the-badge)](https://aayushbharti.vercel.app)
-[![wakatime](https://wakatime.com/badge/user/8821fc28-7662-4c43-9766-efd845f8957f.svg?style=for-the-badge)]()
+[![wakatime](https://wakatime.com/badge/user/8821fc28-7662-4c43-9766-efd845f8957f.svg?style=for-the-badge)](https://aayushbharti.vercel.app)
 <span>
 <a href="https://twitter.com/iAayushBharti" target="_blank"><img alt="Twitter" align="right" width="21" src="https://iaayushbharti.vercel.app/twit.svg" /></a>
 &#8287;&#8287;
