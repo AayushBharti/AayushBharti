@@ -5,7 +5,7 @@
   <a href="https://aayushbharti.vercel.app/">
     <img
       alt="Aayush Bharti"
-      src="./assets/headerText.png"
+      src="./assets/githubCover.png"
       width="90%"
     />
   </a>
@@ -85,7 +85,7 @@
 <p align="left">
 <!-- <img src="https://skillicons.dev/icons?i=html,css,js,ts,nextjs,react,tailwind,figma,notion,npm,git,github,nodejs,express,prisma,postgres,supabase,mongodb,postman,vscode,webstorm,vercel,vite,powershell,bash,linux,mysql,md,firebase,cloudflare,java,c,py"/> -->
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,nextjs,react,tailwind,figma,notion,npm,git,github,nodejs,express,prisma,postgres,supabase,mongodb,postman,vscode,webstorm,vercel,vite,powershell,bash,linux,mysql,md,firebase,cloudflare,java,c,py)](https://aayushbharti.vercel.app)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,nextjs,react,tailwind,figma,notion,npm,pnpm,git,github,nodejs,express,prisma,postgres,supabase,mongodb,mysql,jest,postman,vscode,webstorm,vercel,vite,bash,linux,md,cloudflare,java,c,py)](https://aayushbharti.vercel.app)
 
   <!-- jest -->
 </p>
