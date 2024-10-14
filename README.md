@@ -1,17 +1,14 @@
  <!-- <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px"> -->
 
 <!-- <h1 align="center"><a href="https://aayushbharti.vercel.app/" target="_blank"><img src="https://readme-typing-svg.herokuapp.com?font=Tourney&weight=900&size=30&duration=4000&pause=5000&color=1e90ff&center=true&vCenter=true&repeat=true&random=false&width=600&lines=Hello+%3Ccoders!%2F%3E%2C+I'm+Aayush+Bharti" alt="Hey there 🙋‍♂️, I'm Aayush Bharti" /></a></h1> -->
-<p align="center" style="margin: 25px 0;">
+
   <a href="https://aayushbharti.vercel.app/">
     <img
       alt="Aayush Bharti"
       src="./assets/githubCover.png"
-      width="90%"
+      width="100%"
     />
   </a>
-</p>
-
-
 
 <!-- <div align="center" style="margin: 22px 0; display: flex; justify-content: center; align-items: center;">
   <span style="font-size: 1.4rem; font-weight: bold; display: inline-block; vertical-align: middle;">
@@ -30,10 +27,9 @@
   <span style="font-size: 1.4rem; font-weight: bold; display: inline-block; vertical-align: middle;">
     a Full Stack Developer based in India.
   </span>
-</div> 
+</div>
 -->
 <br/>
-
 
 <!-- [![Hello programmer Welcome to my profile](https://custom-icon-badges.demolab.com/badge/Hello,Programmer!-Welcome-orange.svg?style=flat&logo=github)](https://github.com/AayushBharti)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/AayushBharti)
