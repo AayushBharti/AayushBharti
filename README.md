@@ -27,7 +27,6 @@
 </div>
 -->
 <br/>
-
 <!-- [![Hello programmer Welcome to my profile](https://custom-icon-badges.demolab.com/badge/Hello,Programmer!-Welcome-orange.svg?style=flat&logo=github)](https://github.com/AayushBharti)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/AayushBharti)
 [![GitHub Streak](https://custom-icon-badges.demolab.com/badge/dynamic/json?logo=fire&logoColor=fff&color=orange&label=github%20streak&query=%24.currentStreak.length&suffix=%20days&url=https%3A%2F%2Fstreak-stats.demolab.com%2F%3Fuser%3DAayushBharti%26type%3Djson)](https://github.com/AayushBharti)
@@ -38,47 +37,43 @@
 [![GitHub followers](https://custom-icon-badges.demolab.com/github/followers/AayushBharti?style=social&logo=followers)](https://github.com/AayushBharti?tab=followers)
 [![LeetCode](https://img.shields.io/badge/dynamic/json?style=flat&labelColor=orange&logo=leetcode&logoColor=black&label=Solved&query=solvedOverTotal&url=https://leetcode-badge.vercel.app/api/users/aayushbharti)](https://leetcode.com/aayushbharti) -->
 <!-- [![wakatime](https://wakatime.com/badge/user/8821fc28-7662-4c43-9766-efd845f8957f.svg?style=for-the-badge)](https://wakatime.com/@aayushbharti) -->
+<!-- [![wakatime](https://wakatime.com/badge/user/8821fc28-7662-4c43-9766-efd845f8957f.svg?style=for-the-badge)](https://aayushbharti.in) -->
 
 [![Visits Badge](https://komarev.com/ghpvc/?username=aayushbharti&label=Profile%20views&color=red&style=for-the-badge)](https://aayushbharti.in)
-[![wakatime](https://wakatime.com/badge/user/8821fc28-7662-4c43-9766-efd845f8957f.svg?style=for-the-badge)](https://aayushbharti.in)
 <span>
-<a href="https://twitter.com/iAayushBharti" target="_blank"><img alt="Twitter" align="right" width="21" src="https://aayushbharti.vercel.app/twit.svg" /></a>
+<a href="https://www.linkedin.com/in/iAayushBharti" target="_blank"><img alt="LinkedIn" align="right" width="22" src="https://cdn.simpleicons.org/linkedin/white" /></a>
+<a href="https://x.com/iAayushBharti" target="_blank"><img alt="X/Twitter" align="right" width="22" src="https://cdn.simpleicons.org/x/white" /></a>
 &#8287;&#8287;
-<a href="https://www.linkedin.com/in/iAayushBharti" target="_blank"><img alt="LinkedIn" align="right" width="21" src="https://aayushbharti.vercel.app/link.svg" /></a>
 &#8287;&#8287;
-<a href="https://github.com/AayushBharti" target="_blank"><img alt="Github" align="right" width="21" src="https://aayushbharti.vercel.app/git.svg" /></a>
+<a href="https://github.com/AayushBharti" target="_blank"><img alt="Github" align="right" width="22" src="https://cdn.simpleicons.org/github/white" /></a>
 </span>
+
+<!-- <h2>Hi 👋, my name is Aayush Bharti</h2> -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <a href="https://aayushbharti.in/" target="_blank"><img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='250'></a>
-<br/>
+<h3>A Full Stack Engineer</h3>
 
-- 🌱 I'm currently learning **Next.js**
+- 🔭 I'm currently working on [aayushbharti.in](https://aayushbharti.in)
 
-- 🧔‍♂️ My Portfolio Website [**aayushbharti.in**](https://aayushbharti.in)
+- 🌱 I'm currently learning **Expo**
 
-- 🔗 Explore My Work & Links at [**aayushbharti.in/links**](https://aayushbharti.in/links)
+- 👨‍💻 All of my projects are available at [https://aayushbharti.in/work](https://aayushbharti.in/work)
 
-- 📖 Sign My Guestbook [**aayushbharti.in/guestbook**](https://aayushbharti.in/guestbook)
+- 📝 I regularly write articles on [aayushbharti.in/blog](https://aayushbharti.in/blog)
 
-- 💬 Ask me about **Next.js, React, Framer motion, Node.js**... or anything [**here**](https://github.com/aayushbharti/aayushbharti/issues)
+- 💬 Ask me about **next.js, typescript, framer motion, node.js**
 
-- 📫 How to reach me **iAayushBharti@gmail.com**
-
-- ✨ **Let's Connect & Collaborate!** I'm always open to new projects and opportunities.
-
-<!-- - 👨‍💻 All of my projects are available at [https://honghong.me/projects](https://honghong.me/projects)
-- 👯 I’m looking to collaborate on **competitive programming.**
-- 📝 I regularly write articles on [honghong.me/blog](https://honghong.me/blog) -->
+- 📫 How to reach me **hello@aayushbharti.in**
 
 <br/>
 
-<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25" height="25"> &ensp; <b> Things I code with</b><b> Things I code with</b>
+<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="20"> &ensp; <b> Things I code with</b>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
 <p align="left">
 <!-- <img src="https://skillicons.dev/icons?i=html,css,js,ts,nextjs,react,tailwind,figma,notion,npm,git,github,nodejs,express,prisma,postgres,supabase,mongodb,postman,vscode,webstorm,vercel,vite,powershell,bash,linux,mysql,md,firebase,cloudflare,java,c,py"/> -->
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,nextjs,react,tailwind,figma,notion,npm,pnpm,git,github,nodejs,express,prisma,postgres,supabase,mongodb,mysql,jest,postman,vscode,webstorm,vercel,vite,bash,linux,md,cloudflare,java,c,py)](https://aayushbharti.in)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,nextjs,react,tailwind,figma,notion,npm,pnpm,git,github,nodejs,express,prisma,postgres,supabase,mongodb,mysql,jest,postman,vscode,webstorm,vercel,vite,bash,linux,md,cloudflare,java,c,py,docker)](https://aayushbharti.in)
 
   <!-- jest -->
 </p>
@@ -220,19 +215,22 @@ CSS          21 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <br/>
 
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> &ensp;<b> Github Stats </b>
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width ="25"> &ensp;<b> Stats </b>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align=center>
-  <img width=320 src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=aayushbharti&langs_count=8&layout=compact&theme=dark&border_radius=10&exclude_repo=github-readme-stats&hide_border=true" alt="top langs" />
-  <img width=420  src="https://github-readme-stats-salesp07.vercel.app/api?username=aayushbharti&count_private=true&show_icons=true&theme=dark&rank_icon=github&hide_border=true&border_radius=10" alt="readme stats" />
+  <img width=320 src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=aayushbharti&langs_count=8&layout=compact&theme=dark&border_radius=10&hide_border=true" alt="top langs" />
   <br/>
+  <div align=center  style="display: flex; flex-direction: row; gap: 10px; width: fit-content;">
+   <div style="display: flex; flex-direction: column; gap: 10px; width: fit-content;">
+  <img width=420  src="https://github-readme-stats-salesp07.vercel.app/api?username=aayushbharti&count_private=true&show_icons=true&theme=dark&rank_icon=github&hide_border=true&border_radius=10" alt="readme stats" />
   <img width=420 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=aayushbharti&count_private=true&theme=dark&hide_border=true&border_radius=10&card_width=495" alt="streak stats"/>
+  </div>
+  <a href="https://app.daily.dev/aayushbharti"><img src="https://api.daily.dev/devcards/cf5f5602012c452cb9f62160dc185527.png?r=9qu" width="255" alt="Aayush Bharti's Dev Card"/></a>
+  </div>
 </div>
 
 <br/>
-
-<!-- <a href="https://app.daily.dev/aayushbharti"><img src="https://api.daily.dev/devcards/cf5f5602012c452cb9f62160dc185527.png?r=9qu" width="300" alt="Aayush Bharti's Dev Card"/></a> -->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
