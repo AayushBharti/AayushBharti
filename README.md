@@ -5,7 +5,7 @@
   <a href="https://aayushbharti.in/">
     <img
       alt="Aayush Bharti"
-      src="./assets/githubCover.png"
+      src="./assets/github-banner.jpg"
       width="100%"
     />
   </a>
