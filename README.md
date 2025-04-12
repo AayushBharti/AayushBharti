@@ -5,7 +5,7 @@
   <a href="https://aayushbharti.in/">
     <img
       alt="Aayush Bharti"
-      src="./assets/github-banner.jpg"
+      src="./assets/github-cover-sm.jpg"
       width="100%"
     />
   </a>
@@ -41,11 +41,10 @@
 
 [![Visits Badge](https://komarev.com/ghpvc/?username=aayushbharti&label=Profile%20views&color=red&style=for-the-badge)](https://aayushbharti.in)
 <span>
-<a href="https://www.linkedin.com/in/iAayushBharti" target="_blank"><img alt="LinkedIn" align="right" width="22" src="https://cdn.simpleicons.org/linkedin/white" /></a>
-<a href="https://x.com/iAayushBharti" target="_blank"><img alt="X/Twitter" align="right" width="22" src="https://cdn.simpleicons.org/x/white" /></a>
+<a href="https://www.linkedin.com/in/iAayushBharti" target="_blank"><img alt="LinkedIn" align="right" width="40" src="./assets/linkedin.svg" /></a>
+<a href="https://x.com/iAayushBharti" target="_blank"><img alt="X/Twitter" align="right" width="40" src="./assets/twitter.svg" /></a>
 &#8287;&#8287;
-&#8287;&#8287;
-<a href="https://github.com/AayushBharti" target="_blank"><img alt="Github" align="right" width="22" src="https://cdn.simpleicons.org/github/white" /></a>
+<a href="https://github.com/AayushBharti" target="_blank"><img alt="Github" align="right" width="40" src="./assets/github.svg" /></a>
 </span>
 
 <!-- <h2>Hi 👋, my name is Aayush Bharti</h2> -->
@@ -232,3 +231,9 @@ CSS          21 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 <br/>
 
 <!-- <p align="center">Made with ❤️ in India</p> -->
+
+  <!-- <div align="center">
+      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=aayushbharti&layout=compact&theme=shadow_blue&hide=Other&title_color=84C2C0&bg_color=00000000&text_color=DEDEDE&border_color=00000000">
+  <a href="https://github.com/aayushbharti/aayushbharti"><img alt="aayushbharti's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=aayushbharti&bg_color=RRGGBBAA&title_color=84C2C0&color=84C2C0&line=84C2C0&point=DEDEDE&hide_border=true&custom_title=Contribution⠀Graph" />
+  </a>
+  </div> -->
