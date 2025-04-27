@@ -27,27 +27,29 @@
 </div>
 -->
 <br/>
-<!-- [![Hello programmer Welcome to my profile](https://custom-icon-badges.demolab.com/badge/Hello,Programmer!-Welcome-orange.svg?style=flat&logo=github)](https://github.com/AayushBharti)
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/AayushBharti)
-[![GitHub Streak](https://custom-icon-badges.demolab.com/badge/dynamic/json?logo=fire&logoColor=fff&color=orange&label=github%20streak&query=%24.currentStreak.length&suffix=%20days&url=https%3A%2F%2Fstreak-stats.demolab.com%2F%3Fuser%3DAayushBharti%26type%3Djson)](https://github.com/AayushBharti)
-[![Last Commit](https://custom-icon-badges.demolab.com/github/last-commit/AayushBharti/AayushBharti?style=plastic&logo=history)](https://github.com/AayushBharti/AayushBharti/commits/master)
-[![Awesome Contributors](https://custom-icon-badges.demolab.com/github/contributors/AayushBharti/AayushBharti?label=Awesome%20Contributors&style=plastic&logo=heart-fill)](https://github.com/AayushBharti/AayushBharti/graphs/contributors)
-[![Today's Profile Visitors](https://hits.sh/github.com/AayushBharti/AayushBharti.svg?view=today-total&label=Today's%20Profile%20View&extraCount=0&labelColor=fe3757&logo=github)](https://github.com/AayushBharti)
-[![Profile Visitors](https://hits.sh/github.com/AayushBharti/AayushBharti.svg?label=Total%20Profile%20View&extraCount=0&color=fe3757&labelColor=bf11cc&logo=github)](https://github.com/AayushBharti)
-[![GitHub followers](https://custom-icon-badges.demolab.com/github/followers/AayushBharti?style=social&logo=followers)](https://github.com/AayushBharti?tab=followers)
-[![LeetCode](https://img.shields.io/badge/dynamic/json?style=flat&labelColor=orange&logo=leetcode&logoColor=black&label=Solved&query=solvedOverTotal&url=https://leetcode-badge.vercel.app/api/users/aayushbharti)](https://leetcode.com/aayushbharti) -->
+
+<!-- [![Hello programmer Welcome to my profile](https://custom-icon-badges.demolab.com/badge/Hello,Programmer!-Welcome-orange.svg?style=flat&logo=github)](https://github.com/AayushBharti) -->
+<!-- [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/AayushBharti) -->
+<!-- [![GitHub Streak](https://custom-icon-badges.demolab.com/badge/dynamic/json?logo=fire&logoColor=fff&color=orange&label=github%20streak&query=%24.currentStreak.length&suffix=%20days&url=https%3A%2F%2Fstreak-stats.demolab.com%2F%3Fuser%3DAayushBharti%26type%3Djson)](https://github.com/AayushBharti) -->
+<!-- [![Last Commit](https://custom-icon-badges.demolab.com/github/last-commit/AayushBharti/AayushBharti?style=plastic&logo=history)](https://github.com/AayushBharti/AayushBharti/commits/master) -->
+<!-- [![Awesome Contributors](https://custom-icon-badges.demolab.com/github/contributors/AayushBharti/AayushBharti?label=Awesome%20Contributors&style=plastic&logo=heart-fill)](https://github.com/AayushBharti/AayushBharti/graphs/contributors) -->
+<!-- [![Today's Profile Visitors](https://hits.sh/github.com/AayushBharti/AayushBharti.svg?view=today-total&label=Today's%20Profile%20View&extraCount=0&labelColor=fe3757&logo=github)](https://github.com/AayushBharti) -->
+<!-- [![Profile Visitors](https://hits.sh/github.com/AayushBharti/AayushBharti.svg?label=Total%20Profile%20View&extraCount=0&color=fe3757&labelColor=bf11cc&logo=github)](https://github.com/AayushBharti) -->
+<!-- [![GitHub followers](https://custom-icon-badges.demolab.com/github/followers/AayushBharti?style=social&logo=followers)](https://github.com/AayushBharti?tab=followers) -->
+
+<!-- [![LeetCode](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Faayushbharti&logo=leetcode&logoColor=yellow)](https://leetcode.com/aayushbharti/) -->
 <!-- [![wakatime](https://wakatime.com/badge/user/8821fc28-7662-4c43-9766-efd845f8957f.svg?style=for-the-badge)](https://wakatime.com/@aayushbharti) -->
+
 <!-- [![wakatime](https://wakatime.com/badge/user/8821fc28-7662-4c43-9766-efd845f8957f.svg?style=for-the-badge)](https://aayushbharti.in) -->
+<!-- &#8287;&#8287; -->
+<!-- <a href="https://www.linkedin.com/in/iAayushBharti" target="_blank"><img alt="LinkedIn" align="right" width="40" src="./assets/linkedin.svg" /></a>
+<a href="https://x.com/iAayushBharti" target="_blank"><img alt="X/Twitter" align="right" width="40" src="./assets/twitter.svg" /></a>
+<a href="https://github.com/AayushBharti" target="_blank"><img alt="Github" align="right" width="40" src="./assets/github.svg" /></a> -->
 
 [![Visits Badge](https://komarev.com/ghpvc/?username=aayushbharti&label=Profile%20views&color=red&style=for-the-badge)](https://aayushbharti.in)
-<span>
-<a href="https://www.linkedin.com/in/iAayushBharti" target="_blank"><img alt="LinkedIn" align="right" width="40" src="./assets/linkedin.svg" /></a>
-<a href="https://x.com/iAayushBharti" target="_blank"><img alt="X/Twitter" align="right" width="40" src="./assets/twitter.svg" /></a>
-&#8287;&#8287;
-<a href="https://github.com/AayushBharti" target="_blank"><img alt="Github" align="right" width="40" src="./assets/github.svg" /></a>
-</span>
-
-<!-- <h2>Hi 👋, my name is Aayush Bharti</h2> -->
+<a href="https://x.com/iAayushBharti" target="_blank"><img align="right" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Twitter/twitter2.svg" alt="Aayush Bharti | Twitter" ></img></a>
+<a href="https://linkedin.com/in/iAayushBharti" target="_blank"><img align="right" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin2.svg" alt="Aayush Bharti | Linkedin" /></a>
+<a href="https://github.com/AayushBharti" target="_blank"><img align="right" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github2.svg" alt="Aayush Bharti | GitHub" /></a>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <a href="https://aayushbharti.in/" target="_blank"><img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='250'></a>
 <h3>A Full Stack Engineer</h3>
