@@ -5,10 +5,11 @@
   <a href="https://aayushbharti.in/">
     <img
       alt="Aayush Bharti"
-      src="./assets/github-cover-sm.jpg"
+      src="./assets/banner.jpg"
       width="100%"
     />
   </a>
+
 <!-- <div align="center" style="margin: 22px 0; display: flex; justify-content: center; align-items: center;">
   <span style="font-size: 1.4rem; font-weight: bold; display: inline-block; vertical-align: middle;">
     Hi, I'm Aayush Bharti,
@@ -24,8 +25,8 @@
   <span style="font-size: 1.4rem; font-weight: bold; display: inline-block; vertical-align: middle;">
     a Full Stack Developer based in India.
   </span>
-</div>
--->
+</div> -->
+
 <br/>
 
 <!-- [![Hello programmer Welcome to my profile](https://custom-icon-badges.demolab.com/badge/Hello,Programmer!-Welcome-orange.svg?style=flat&logo=github)](https://github.com/AayushBharti) -->
