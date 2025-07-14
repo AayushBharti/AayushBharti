@@ -222,10 +222,10 @@ CSS          21 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align=center>
-  <img width=330 src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=aayushbharti&langs_count=8&layout=compact&theme=dark&border_radius=10&hide_border=true" alt="top langs" />
-  <span><a href="https://wakatime.com/@aayushbharti"><img height="182" src="https://github-readme-stats.vercel.app/api/wakatime?username=aayushbharti&layout=compact&langs_count=6&theme=dark&border_radius=10&hide_border=true" /></a></span>
-  <img width=440  src="https://github-readme-stats-salesp07.vercel.app/api?username=aayushbharti&count_private=true&show_icons=true&theme=dark&rank_icon=github&hide_border=true&border_radius=10" alt="readme stats" />
-  <img width=440 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=aayushbharti&count_private=true&theme=dark&hide_border=true&border_radius=10&card_width=495" alt="streak stats"/>
+  <span><a href="https://aayushbharti.in"><img width=330 src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=aayushbharti&langs_count=8&layout=compact&theme=dark&border_radius=10&hide_border=true" alt="top langs" /></a></span>
+  <span><a href="https://aayushbharti.in"><img height="180" src="https://github-readme-stats.vercel.app/api/wakatime?username=aayushbharti&layout=compact&langs_count=6&theme=dark&border_radius=10&hide_border=true" /></a></span>
+  <span><a href="https://aayushbharti.in"><img width=410  src="https://github-readme-stats-salesp07.vercel.app/api?username=aayushbharti&count_private=true&show_icons=true&theme=dark&rank_icon=github&hide_border=true&border_radius=10" alt="readme stats" /></a></span>
+  <span><a href="https://aayushbharti.in"><img width=430 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=aayushbharti&count_private=true&theme=dark&hide_border=true&border_radius=10&card_width=495" alt="streak stats"/></a></span>
 </div>
 
 <div align=center>
