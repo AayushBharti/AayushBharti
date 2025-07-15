@@ -58,9 +58,9 @@
 
 - 🔭 I'm currently working on [aayushbharti.in](https://aayushbharti.in)
 
-- 🌱 I'm currently learning **Expo**
+- 🌱 I'm currently learning **DevOps**
 
-- 👨‍💻 All of my projects are available at [https://aayushbharti.in/work](https://aayushbharti.in/work)
+- 👨‍💻 All of my projects are available at [https://aayushbharti.in/projects](https://aayushbharti.in/projects)
 
 - 📝 I regularly write articles on [aayushbharti.in/blog](https://aayushbharti.in/blog)
 
@@ -228,9 +228,9 @@ CSS          21 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
   <span><a href="https://aayushbharti.in"><img width=430 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=aayushbharti&count_private=true&theme=dark&hide_border=true&border_radius=10&card_width=495" alt="streak stats"/></a></span>
 </div>
 
-<div align=center>
+<!-- <div align=center>
   <a href="https://aayushbharti.in"><img src="https://api.daily.dev/devcards/cf5f5602012c452cb9f62160dc185527.png?r=9qu" width="260" alt="Aayush Bharti's Dev Card"/></a>
-</div>
+</div> -->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br/>
