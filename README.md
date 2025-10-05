@@ -56,15 +56,15 @@
 
 <h3>A Full Stack Engineer</h3>
 
-- 🔭 I'm currently working on [aayushbharti.in](https://aayushbharti.in)
+<!-- - 🔭 I'm currently working on [aayushbharti.in](https://aayushbharti.in) -->
 
 - 🌱 I'm currently learning **DevOps**
 
-- 👨‍💻 All of my projects are available at [https://aayushbharti.in/projects](https://aayushbharti.in/projects)
+- 👨‍💻 My projects are available at [https://aayushbharti.in/projects](https://aayushbharti.in/projects)
 
-- 📝 I regularly write articles on [aayushbharti.in/blog](https://aayushbharti.in/blog)
+- 📝 I write blogs on [aayushbharti.in/blog](https://aayushbharti.in/blog)
 
-- 💬 Ask me about **next.js, typescript, framer motion, node.js**
+<!-- - 💬 Ask me about **next.js, typescript, framer motion, node.js** -->
 
 - 📫 How to reach me **<hello@aayushbharti.in>**
 
