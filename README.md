@@ -76,7 +76,7 @@
 <p align="left">
 <!-- <img src="https://skillicons.dev/icons?i=html,css,js,ts,nextjs,react,tailwind,figma,notion,npm,git,github,nodejs,express,prisma,postgres,supabase,mongodb,postman,vscode,webstorm,vercel,vite,powershell,bash,linux,mysql,md,firebase,cloudflare,java,c,py"/> -->
 
-[![My Skills](https://go-skill-icons.vercel.app/api/icons?i=html,css,js,ts,react,nextjs,tailwind,framer,radix,figma,notion,markdown,nodejs,expressjs,redis,postgresql,mongodb,prisma,drizzle,betterauth,turborepo,reactquery,zustand,expo,groq,pnpm,bun,git,github,githubactions,vercel,docker,aws,cloudflare,debian,bash,python,c&theme=dark&titles=true)](https://aayushbharti.in)
+[![My Skills](https://go-skill-icons.vercel.app/api/icons?i=html,css,js,ts,react,nextjs,tailwind,framer,radix,figma,notion,reactrouter,markdown,biome,nodejs,expressjs,redis,postgresql,mongodb,prisma,drizzle,betterauth,turborepo,reactquery,zustand,expo,groq,pnpm,bun,git,github,githubactions,vercel,docker,aws,cloudflare,debian,bash,python,c&theme=dark&titles=true)](https://aayushbharti.in)
 
   <!-- jest -->
 </p>
@@ -218,7 +218,7 @@ CSS          21 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <br/>
 
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width ="25"> &ensp;<b> Stats </b>
+<!-- <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width ="25"> &ensp;<b> Stats </b>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align=center>
@@ -226,7 +226,41 @@ CSS          21 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
   <span><a href="https://aayushbharti.in"><img height="180" src="https://github-readme-stats.vercel.app/api/wakatime?username=aayushbharti&layout=compact&langs_count=6&theme=dark&border_radius=10&hide_border=true" /></a></span>
   <span><a href="https://aayushbharti.in"><img width=410  src="https://github-readme-stats-salesp07.vercel.app/api?username=aayushbharti&count_private=true&show_icons=true&theme=dark&rank_icon=github&hide_border=true&border_radius=10" alt="readme stats" /></a></span>
   <span><a href="https://aayushbharti.in"><img width=430 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=aayushbharti&count_private=true&theme=dark&hide_border=true&border_radius=10&card_width=495" alt="streak stats"/></a></span>
-</div>
+</div> -->
+
+<details>
+  <summary>
+    <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width ="25"> &ensp;
+    <b>Stats Overview</b>
+
+  
+  </summary>
+
+   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+  <div align="center">
+    <span>
+      <a href="https://aayushbharti.in">
+        <img width="330" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=aayushbharti&langs_count=8&layout=compact&theme=dark&border_radius=10&hide_border=true" alt="top langs" />
+      </a>
+    </span>
+    <span>
+      <a href="https://aayushbharti.in">
+        <img height="180" src="https://github-readme-stats.vercel.app/api/wakatime?username=aayushbharti&layout=compact&langs_count=6&theme=dark&border_radius=10&hide_border=true" />
+      </a>
+    </span>
+    <span>
+      <a href="https://aayushbharti.in">
+        <img width="410" src="https://github-readme-stats-salesp07.vercel.app/api?username=aayushbharti&count_private=true&show_icons=true&theme=dark&rank_icon=github&hide_border=true&border_radius=10" alt="readme stats" />
+      </a>
+    </span>
+    <span>
+      <a href="https://aayushbharti.in">
+        <img width="430" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=aayushbharti&count_private=true&theme=dark&hide_border=true&border_radius=10&card_width=495" alt="streak stats" />
+      </a>
+    </span>
+  </div>
+</details>
 
 <!-- <div align=center>
   <a href="https://aayushbharti.in"><img src="https://api.daily.dev/devcards/cf5f5602012c452cb9f62160dc185527.png?r=9qu" width="260" alt="Aayush Bharti's Dev Card"/></a>
