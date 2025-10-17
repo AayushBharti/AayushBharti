@@ -76,7 +76,7 @@
 <p align="left">
 <!-- <img src="https://skillicons.dev/icons?i=html,css,js,ts,nextjs,react,tailwind,figma,notion,npm,git,github,nodejs,express,prisma,postgres,supabase,mongodb,postman,vscode,webstorm,vercel,vite,powershell,bash,linux,mysql,md,firebase,cloudflare,java,c,py"/> -->
 
-[![My Skills](https://go-skill-icons.vercel.app/api/icons?i=html,css,js,ts,react,nextjs,tailwind,framer,radix,figma,notion,reactrouter,markdown,biome,nodejs,expressjs,redis,postgresql,mongodb,prisma,drizzle,betterauth,turborepo,reactquery,zustand,expo,groq,pnpm,bun,git,github,githubactions,vercel,docker,aws,cloudflare,debian,bash,python,c&theme=dark&titles=true)](https://aayushbharti.in)
+[![My Skills](https://go-skill-icons.vercel.app/api/icons?i=html,css,js,ts,react,nextjs,tailwind,framer,radix,figma,notion,reactrouter,markdown,biome,nodejs,expressjs,redis,postgresql,mongodb,prisma,drizzle,betterauth,turborepo,reactquery,zustand,expo,groq,sentry,pnpm,bun,git,github,githubactions,vercel,docker,aws,cloudflare,debian,bash,python,c&theme=dark&titles=true)](https://aayushbharti.in)
 
   <!-- jest -->
 </p>
