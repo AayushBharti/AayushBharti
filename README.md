@@ -9,7 +9,7 @@
       width="100%"
     />
   </a>
-
+ 
 <!-- <div align="center" style="margin: 22px 0; display: flex; justify-content: center; align-items: center;">
   <span style="font-size: 1.4rem; font-weight: bold; display: inline-block; vertical-align: middle;">
     Hi, I'm Aayush Bharti,
@@ -48,9 +48,10 @@
 <a href="https://github.com/AayushBharti" target="_blank"><img alt="Github" align="right" width="40" src="./assets/github.svg" /></a> -->
 
 [![Visits Badge](https://komarev.com/ghpvc/?username=aayushbharti&label=Profile%20views&color=red&style=for-the-badge)](https://aayushbharti.in)
-<a href="https://x.com/iAayushBharti" target="_blank"><img align="right" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Twitter/twitter2.svg" alt="Aayush Bharti | Twitter" ></img></a>
-<a href="https://linkedin.com/in/iAayushBharti" target="_blank"><img align="right" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin2.svg" alt="Aayush Bharti | Linkedin" /></a>
-<a href="https://github.com/AayushBharti" target="_blank"><img align="right" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github2.svg" alt="Aayush Bharti | GitHub" /></a>
+[![wakatime](https://wakatime.com/badge/user/8821fc28-7662-4c43-9766-efd845f8957f.svg?style=for-the-badge)](https://wakatime.com/@aayushbharti)
+<a href="https://x.com/iAayushBharti" target="_blank"><img align="right" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="Aayush Bharti | X" /></a>
+<a href="https://linkedin.com/in/iAayushBharti" target="_blank"><img align="right" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Aayush Bharti | LinkedIn" /></a>
+<a href="mailto:hello@aayushbharti.in"><img align="right" src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Aayush Bharti | Email" /></a>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <a href="https://aayushbharti.in/" target="_blank"><img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='250'></a>
 
@@ -82,15 +83,8 @@
 </p>
 📊<b> Weekly development breakdown</b>
 
-```txt
-Total Time: 41 hrs 2 mins
-
-TypeScript   36 hrs 1 min    ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣀⣀⣀   86.80 %
-JSON         1 hr 46 mins    ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   04.26 %
-JavaScript   1 hr 28 mins    ⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   03.54 %
-Other        28 mins         ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.14 %
-CSS          21 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.85 %
-```
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 <!--
 ## 🚀 Languages and Tools
@@ -239,26 +233,16 @@ CSS          21 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
   <div align="center">
-    <span>
-      <a href="https://aayushbharti.in">
-        <img width="330" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=aayushbharti&langs_count=8&layout=compact&theme=dark&border_radius=10&hide_border=true" alt="top langs" />
-      </a>
-    </span>
-    <span>
-      <a href="https://aayushbharti.in">
-        <img height="180" src="https://github-readme-stats.vercel.app/api/wakatime?username=aayushbharti&layout=compact&langs_count=6&theme=dark&border_radius=10&hide_border=true" />
-      </a>
-    </span>
-    <span>
-      <a href="https://aayushbharti.in">
-        <img width="410" src="https://github-readme-stats-salesp07.vercel.app/api?username=aayushbharti&count_private=true&show_icons=true&theme=dark&rank_icon=github&hide_border=true&border_radius=10" alt="readme stats" />
-      </a>
-    </span>
-    <span>
-      <a href="https://aayushbharti.in">
-        <img width="430" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=aayushbharti&count_private=true&theme=dark&hide_border=true&border_radius=10&card_width=495" alt="streak stats" />
-      </a>
-    </span>
+    <a href="https://aayushbharti.in">
+      <img width="39%" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=aayushbharti&langs_count=8&layout=compact&theme=dark&border_radius=10&hide_border=true" alt="top langs" />
+    </a>
+    <a href="https://aayushbharti.in">
+      <img width="59%" src="https://github-readme-stats-salesp07.vercel.app/api?username=aayushbharti&count_private=true&show_icons=true&theme=dark&rank_icon=github&hide_border=true&border_radius=10&include_all_commits=true" alt="readme stats" />
+    </a>
+    <br/>
+    <a href="https://aayushbharti.in">
+      <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=aayushbharti&count_private=true&theme=dark&hide_border=true&border_radius=10" alt="streak stats" />
+    </a>
   </div>
 </details>
 
