@@ -27,7 +27,7 @@
   </span>
 </div> -->
 
-<br/>
+<!-- <br/> -->
 
 <!-- [![Hello programmer Welcome to my profile](https://custom-icon-badges.demolab.com/badge/Hello,Programmer!-Welcome-orange.svg?style=flat&logo=github)](https://github.com/AayushBharti) -->
 <!-- [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/AayushBharti) -->
@@ -48,26 +48,22 @@
 <a href="https://github.com/AayushBharti" target="_blank"><img alt="Github" align="right" width="40" src="./assets/github.svg" /></a> -->
 
 [![Visits Badge](https://komarev.com/ghpvc/?username=aayushbharti&label=Profile%20views&color=red&style=for-the-badge)](https://aayushbharti.in)
-[![wakatime](https://wakatime.com/badge/user/8821fc28-7662-4c43-9766-efd845f8957f.svg?style=for-the-badge)](https://wakatime.com/@aayushbharti)
-<a href="https://x.com/iAayushBharti" target="_blank"><img align="right" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="Aayush Bharti | X" /></a>&ensp;
-<a href="https://linkedin.com/in/iAayushBharti" target="_blank"><img align="right" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Aayush Bharti | LinkedIn" /></a>&ensp;
+[![wakatime](https://wakatime.com/badge/user/8821fc28-7662-4c43-9766-efd845f8957f.svg?style=for-the-badge)](https://aayushbharti.in)
+<a href="https://x.com/iAayushBharti" target="_blank"><img align="right" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="Aayush Bharti | X" /></a>
+<a href="https://linkedin.com/in/iAayushBharti" target="_blank"><img align="right" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Aayush Bharti | LinkedIn" /></a>
 <a href="mailto:hello@aayushbharti.in"><img align="right" src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Aayush Bharti | Email" /></a>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <a href="https://aayushbharti.in/" target="_blank"><img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='250'></a>
 
-<h3>A Full Stack Engineer</h3>
+<h3>Engineering products that <i>scale</i> & <i>stick</i> with time.</h3>
 
-<!-- - 🔭 I'm currently working on [aayushbharti.in](https://aayushbharti.in) -->
+- 🌱 Currently leveling up in **DevOps**
 
-- 🌱 I'm currently learning **DevOps**
+- 👨‍💻 My projects → [aayushbharti.in/projects](https://aayushbharti.in/projects)
 
-- 👨‍💻 My projects are available at [https://aayushbharti.in/projects](https://aayushbharti.in/projects)
+- ✍️ I write about what I learn → [aayushbharti.in/blog](https://aayushbharti.in/blog)
 
-- 📝 I write blogs on [aayushbharti.in/blog](https://aayushbharti.in/blog)
-
-<!-- - 💬 Ask me about **next.js, typescript, framer motion, node.js** -->
-
-- 📫 How to reach me **<hello@aayushbharti.in>**
+- 🤝 **Open to full-time roles & freelance** — [**hello@aayushbharti.in**](mailto:hello@aayushbharti.in)
 
 <br/>
 
