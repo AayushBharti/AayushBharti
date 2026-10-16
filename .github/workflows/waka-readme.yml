@@ -7,13 +7,23 @@ on:
     # Runs every Monday at 12AM IST (Sunday 6:30PM UTC)
     - cron: "30 18 * * 0"
 
+permissions:
+  contents: write
+
 jobs:
   update-readme:
     name: WakaReadme DevMetrics
     runs-on: ubuntu-latest
     steps:
-      - uses: athul/waka-readme@master 
+      # Writes between <!--START_SECTION:waka--> and <!--END_SECTION:waka--> in README.md.
+      - uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          TIME_RANGE: last_7_days
           BLOCKS: ⣀⣄⣤⣦⣶⣷⣿
-          SHOW_TOTAL: true
+          # Total including "Other" (matches the dashboard); the hidden langs still count.
+          SHOW_MASKED_TIME: true
+          LANG_COUNT: 5
+          # Text/JSON are noise; CSS/HTML hidden by choice. "Other" (mostly AI-agent time) stays.
+          IGNORED_LANGUAGES: "Text JSON CSS HTML"
+          COMMIT_MESSAGE: "Update weekly WakaTime breakdown"

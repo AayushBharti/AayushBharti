@@ -2,10 +2,13 @@
 
 <!-- <h1 align="center"><a href="https://aayushbharti.in/" target="_blank"><img src="https://readme-typing-svg.herokuapp.com?font=Tourney&weight=900&size=30&duration=4000&pause=5000&color=1e90ff&center=true&vCenter=true&repeat=true&random=false&width=600&lines=Hello+%3Ccoders!%2F%3E%2C+I'm+Aayush+Bharti" alt="Hey there 🙋‍♂️, I'm Aayush Bharti" /></a></h1> -->
 
+[![Visits Badge](https://komarev.com/ghpvc/?username=aayushbharti&label=Profile%20views&color=red&style=for-the-badge)](https://aayushbharti.in)
+[![wakatime](https://wakatime.com/badge/user/8821fc28-7662-4c43-9766-efd845f8957f.svg?style=for-the-badge)](https://aayushbharti.in)
+
   <a href="https://aayushbharti.in/">
     <img
       alt="Aayush Bharti"
-      src="./assets/banner.jpg"
+      src="./assets/banner.webp"
       width="100%"
     />
   </a>
@@ -47,46 +50,54 @@
 <a href="https://x.com/iAayushBharti" target="_blank"><img alt="X/Twitter" align="right" width="40" src="./assets/twitter.svg" /></a>
 <a href="https://github.com/AayushBharti" target="_blank"><img alt="Github" align="right" width="40" src="./assets/github.svg" /></a> -->
 
-[![Visits Badge](https://komarev.com/ghpvc/?username=aayushbharti&label=Profile%20views&color=red&style=for-the-badge)](https://aayushbharti.in)
-[![wakatime](https://wakatime.com/badge/user/8821fc28-7662-4c43-9766-efd845f8957f.svg?style=for-the-badge)](https://aayushbharti.in)
-<a href="https://x.com/iAayushBharti" target="_blank"><img align="right" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="Aayush Bharti | X" /></a><a href="https://linkedin.com/in/iAayushBharti" target="_blank"><img align="right" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Aayush Bharti | LinkedIn" /></a><a href="mailto:hello@aayushbharti.in"><img align="right" src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Aayush Bharti | Email" /></a>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<a href="https://aayushbharti.in/" target="_blank"><img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='250'></a>
+<h3>I build production web apps end to end, from the interface to the AI systems behind it.</h3>
 
-<h3>Engineering products that <i>scale</i> & <i>stick</i> with time.</h3>
-
-- 🌱 Currently leveling up in **DevOps**
-
-- 👨‍💻 My projects → [aayushbharti.in/projects](https://aayushbharti.in/projects)
-
-- ✍️ I write about what I learn → [aayushbharti.in/blog](https://aayushbharti.in/blog)
-
-- 🤝 **Open to full-time roles & freelance** — [**hello@aayushbharti.in**](mailto:hello@aayushbharti.in)
+- 🌱 Currently learning **DevOps** and **system design**
+- 👨‍💻 Selected work → [aayushbharti.in/projects](https://aayushbharti.in/projects)
+- 🤝 Taking on freelance projects, open to full-time roles → [get in touch](https://aayushbharti.in/contact)
 
 <br/>
 
+✍️ &ensp; <b>Latest writing</b>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
+
+<a href="https://aayushbharti.in/" target="_blank"><img align='right' src='./assets/octocat.gif' width='210' alt='Octocat'></a>
+
+<!-- BLOG-POST-LIST:START -->
+- [What's New in Next.js 16.4](https://aayushbharti.in/blog/nextjs-16-4-whats-new)
+- [How to Optimize a Next.js Web App](https://aayushbharti.in/blog/how-to-optimize-a-nextjs-web-app)
+- [Every Tool in My Terminal-First Dev Setup](https://aayushbharti.in/blog/terminal-first-dev-setup)
+- [Build a Blog with Next.js and MDX from Scratch](https://aayushbharti.in/blog/build-a-blog-with-nextjs-and-mdx)
+- [What I'd Tell Myself Before Learning to Code](https://aayushbharti.in/blog/what-i-wish-i-knew-before-learning-to-code)<!-- BLOG-POST-LIST:END -->
+
+[All posts →](https://aayushbharti.in/blog)<br clear="right"/>
+
+<!-- Things I code with (hidden)
 <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="20"> &ensp; <b> Things I code with</b>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
 <p align="left">
-<!-- <img src="https://skillicons.dev/icons?i=html,css,js,ts,nextjs,react,tailwind,figma,notion,npm,git,github,nodejs,express,prisma,postgres,supabase,mongodb,postman,vscode,webstorm,vercel,vite,powershell,bash,linux,mysql,md,firebase,cloudflare,java,c,py"/> -->
-
 [![My Skills](https://go-skill-icons.vercel.app/api/icons?i=html,css,js,ts,react,nextjs,tailwind,framer,radix,figma,notion,reactrouter,markdown,biome,nodejs,expressjs,redis,postgresql,mongodb,prisma,drizzle,betterauth,turborepo,reactquery,zustand,expo,groq,sentry,pnpm,bun,git,github,githubactions,vercel,docker,aws,cloudflare,debian,bash,python,c&theme=dark&titles=true)](https://aayushbharti.in)
-
-  <!-- jest -->
 </p>
-📊<b> Weekly development breakdown</b>
+-->
+<!-- no <br/> here: the Octocat's overhang above already spaces this heading -->
+📊 &ensp; <b>Weekly development breakdown</b>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
+
+<!--START_SECTION:waka-->
 
 ```txt
-Total Time: 64 hrs 12 mins
+Total Time: 81 hrs 57 mins
 
-TypeScript   49 hrs 38 mins  ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣤⣀⣀⣀⣀⣀   77.32 %
-Python       6 hrs 10 mins   ⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   09.61 %
-MDX          2 hrs 55 mins   ⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   04.55 %
-Markdown     2 hrs 6 mins    ⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   03.28 %
-Bash         1 hr 42 mins    ⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.65 %
-YAML         1 hr 41 mins    ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.59 %
+TypeScript     37 hrs 34 mins        ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   45.85 %
+Other          32 hrs 48 mins        ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   40.03 %
+JavaScript     3 hrs 40 mins         ⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   04.49 %
+Markdown       2 hrs 49 mins         ⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   03.46 %
+Python         1 hr 4 mins           ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.30 %
+HTML           35 mins               ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.72 %
 ```
+
+<!--END_SECTION:waka-->
 
 <!--
 ## 🚀 Languages and Tools
@@ -226,13 +237,12 @@ YAML         1 hr 41 mins    ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <details>
   <summary>
-    <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width ="25"> &ensp;
-    <b>Stats Overview</b>
+    📈 &ensp; <b>Stats overview</b>
 
   
   </summary>
 
-   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
   <div align="center">
     <a href="https://aayushbharti.in">
@@ -252,8 +262,6 @@ YAML         1 hr 41 mins    ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
   <a href="https://aayushbharti.in"><img src="https://api.daily.dev/devcards/cf5f5602012c452cb9f62160dc185527.png?r=9qu" width="260" alt="Aayush Bharti's Dev Card"/></a>
 </div> -->
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<br/>
 
 <!-- <p align="center">Made with ❤️ in India</p> -->
 

@@ -1,0 +1,28 @@
+name: Latest blog posts
+
+on:
+  # for manual workflow trigger
+  workflow_dispatch:
+  schedule:
+    # Daily at 6AM IST (00:30 UTC)
+    - cron: "30 0 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme:
+    name: Update README with latest blog posts
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://aayushbharti.in/blog/rss.xml"
+          max_post_count: 5
+          # Leading newline: the action writes right after the START marker.
+          template: "$newline- [$title]($url)"
+          disable_html_encoding: true
+          commit_message: "Update latest blog posts"
+          committer_username: "github-actions[bot]"
+          committer_email: "41898282+github-actions[bot]@users.noreply.github.com"
