@@ -23,9 +23,9 @@
 <a href="https://aayushbharti.in/" target="_blank"><img align='right' src='./assets/octocat.gif' width='210' alt='Octocat'></a>
 
 <!-- BLOG-POST-LIST:START -->
+- [How I Run a Team of Claude Code Agents: My AI Coding Setup](https://aayushbharti.in/blog/my-ai-coding-setup)
 - [What's New in Next.js 16.4](https://aayushbharti.in/blog/nextjs-16-4-whats-new)
 - [How to Optimize a Next.js Web App](https://aayushbharti.in/blog/how-to-optimize-a-nextjs-web-app)
-- [Every Tool in My Terminal-First Dev Setup](https://aayushbharti.in/blog/terminal-first-dev-setup)
 - [Build a Blog with Next.js and MDX from Scratch](https://aayushbharti.in/blog/build-a-blog-with-nextjs-and-mdx)
 - [What I'd Tell Myself Before Learning to Code](https://aayushbharti.in/blog/what-i-wish-i-knew-before-learning-to-code)<!-- BLOG-POST-LIST:END -->
 
