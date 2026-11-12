@@ -26,8 +26,7 @@
 - [How I Run a Team of Claude Code Agents: My AI Coding Setup](https://aayushbharti.in/blog/my-ai-coding-setup)
 - [What's New in Next.js 16.4](https://aayushbharti.in/blog/nextjs-16-4-whats-new)
 - [How to Optimize a Next.js Web App](https://aayushbharti.in/blog/how-to-optimize-a-nextjs-web-app)
-- [Build a Blog with Next.js and MDX from Scratch](https://aayushbharti.in/blog/build-a-blog-with-nextjs-and-mdx)
-- [What I'd Tell Myself Before Learning to Code](https://aayushbharti.in/blog/what-i-wish-i-knew-before-learning-to-code)<!-- BLOG-POST-LIST:END -->
+- [Build a Blog with Next.js and MDX from Scratch](https://aayushbharti.in/blog/build-a-blog-with-nextjs-and-mdx)<!-- BLOG-POST-LIST:END -->
 
 [All posts →](https://aayushbharti.in/blog)<br clear="right"/>
 
