@@ -23,6 +23,7 @@
 <a href="https://aayushbharti.in/" target="_blank"><img align='right' src='./assets/octocat.gif' width='210' alt='Octocat'></a>
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft 365 Outage: Why Every Reboot Failed](https://aayushbharti.in/blog/microsoft-365-outage-system-design-lessons)
 - [How I Run a Team of Claude Code Agents: My AI Coding Setup](https://aayushbharti.in/blog/my-ai-coding-setup)
 - [What's New in Next.js 16.4](https://aayushbharti.in/blog/nextjs-16-4-whats-new)
 - [How to Optimize a Next.js Web App](https://aayushbharti.in/blog/how-to-optimize-a-nextjs-web-app)
